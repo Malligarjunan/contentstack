@@ -1,0 +1,1 @@
+export default function App(){ return (<h1>Contentstack React App</h1>); }
